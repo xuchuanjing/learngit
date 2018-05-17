@@ -4,5 +4,3 @@ git has a mutable index called stage
 git tracks changes of files
 the file is connected to origin
 create a new branch is quick
-insert failure
-dev insert
