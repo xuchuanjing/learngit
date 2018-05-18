@@ -8,3 +8,4 @@ add merge
 fast forward
 test merge dev
 new dev
+12345
