@@ -6,3 +6,4 @@ the file is connected to origin
 create a new branch is quick and simple
 add merge
 fast forward
+test merge dev
